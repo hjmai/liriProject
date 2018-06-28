@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/hjmai/liriProject#readme",
   "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
     "twitter": "^1.7.1"
   }
 }
